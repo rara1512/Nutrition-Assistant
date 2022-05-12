@@ -2,7 +2,7 @@
 For this project, we have used python’s streamlit library to make a web application, making it easy for the users. It was aimed at making this project more practical and ready to use for business purposes. 
 
 Here’s a look at the web application
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Home.jpg?raw=true)
 
 The first step is to select the dietary preference. We have included three popular dietary labels as shown below. The user can either choose his preference or skip it.
 

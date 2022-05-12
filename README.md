@@ -3,7 +3,7 @@ For this project, we have used python’s streamlit library to make a web applic
 
 Here’s a look at the web application
 
-![alt text](https://github.com/rara1512/Nutrition-Assistant/blob/main/Home.png?raw=true)
+![alt text](https://github.com/rara1512/Nutrition-Assistant/blob/main/Home.PNG?raw=true)
 
 The first step is to select the dietary preference. We have included three popular dietary labels as shown below. The user can either choose his preference or skip it.
 
